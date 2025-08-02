@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sachini-wijesundara&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🛠 I’m currently working on **AI chatbot**
+-  I'm  Currently Following Bsc(Hons) Software Engineering at Plymouth (UK)
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Web Development | MERN**
 - 📫 How to reach me: [sachini.2005.wijesundara@gmail.com](mailto:sachini.2005.wijesundara@gmail.com)
