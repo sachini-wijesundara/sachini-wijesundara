@@ -4,7 +4,7 @@
 
 -  I'm  Currently Following Bsc(Hons) Software Engineering at Plymouth (UK)
 - 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Web Development | MERN**
+- 💬 Ask me about **Mobile App Development | Flutter**
 - 📫 How to reach me: [sachini.2005.wijesundara@gmail.com](mailto:sachini.2005.wijesundara@gmail.com)
 - ⚡ Fun fact: **Open Source Contributor**
 
