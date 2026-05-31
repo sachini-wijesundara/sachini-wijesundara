@@ -93,8 +93,10 @@ I am a Software Engineering undergrad at **NSBM Green University** with a passio
 <br/>
 
 <!-- Social Links -->
+<!-- Social Links -->
 <div align="center">
-  <a href="www.linkedin.com/in/sachini-wijesundara-b63404327" target="_blank">
+  <br/>
+  <a href="https://www.linkedin.com/in/sachini-wijesundara-b63404327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sachini.2005.wijesundara@gmail.com" target="_blank">
