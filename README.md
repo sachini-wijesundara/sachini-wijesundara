@@ -59,8 +59,11 @@ I am a Software Engineering undergrad at **NSBM Green University** with a passio
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachini-wijesundara&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&v=2" alt="Sachini's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachini-wijesundara&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&v=2" alt="Top Languages" width="48%" />
+
+[![Sachini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachini-wijesundara&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&v=3)](https://github.com/sachini-wijesundara)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachini-wijesundara&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&v=3)](https://github.com/sachini-wijesundara)
+
 </div>
 
 <!-- Social Links -->
