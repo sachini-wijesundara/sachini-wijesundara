@@ -58,25 +58,25 @@ I am a Software Engineering undergrad at **NSBM Green University** with a passio
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/sachini-wijesundara">
-          <img src="https://github-readme-stats.vercel.app/api?username=sachini-wijesundara&show_icons=true" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/sachini-wijesundara">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachini-wijesundara&layout=compact" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Streak Card (Known to be working) -->
+  <a href="https://github.com/sachini-wijesundara">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachini-wijesundara&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Activity Graph (Reliable Alternative) -->
+  <a href="https://github.com/sachini-wijesundara">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachini-wijesundara&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&hide_border=true&theme=react" alt="Activity Graph" width="100%" />
+  </a>
+</div>
+
+<br/>
 
 <!-- Social Links -->
 <div align="center">
-  <br/>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
